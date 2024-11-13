@@ -1,0 +1,3 @@
+c:\Users\Acer\Desktop\java\maxima\dz\dz16_09\
+
+docker build --progress=plain -t dz16_09 .
